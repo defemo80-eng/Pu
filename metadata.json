@@ -1,0 +1,6 @@
+{
+  "name": "Dracuversus",
+  "description": "Museo y enciclopedia digital dedicada a la historia de las paletas Drácula y sus muñequitos coleccionables desde 1989 hasta 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
